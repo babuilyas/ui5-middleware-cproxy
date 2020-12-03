@@ -1,0 +1,19 @@
+{
+  "name": "ui5-middleware-cproxy",
+  "version": "1.0.0",
+  "description": "UI5 local development behind corp proxy. ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http_proxy",
+    "ui5",
+    "middleware"
+  ],
+  "author": "Muhammad Ilyas (@babuilyas)",
+  "license": "ISC",
+  "dependencies": {
+    "@ui5/logger": "^2.0.1",
+    "node-global-proxy": "^1.0.1"
+  }
+}
